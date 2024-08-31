@@ -2,7 +2,7 @@
 Main Anonymusia Page
 
 ### Anonymusia Main WEB Page
-https://zalanviktor.duckdns.org/zasim/Anonymusia/
+http://zalanviktor.duckdns.org/zasim/Anonymusia/
 
 #### This is a Hub. Here you can download games for FREE (pc) OR you can download modded apps (Android).   In here you can also download root things for you rooted device. For example Magisk modules..
 
