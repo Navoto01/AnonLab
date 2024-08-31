@@ -15,7 +15,7 @@ This project focuses on utilizing the built-in Bluetooth Low Energy (BLE) functi
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 ### Anon Multi Hacking Tool
-This project is a multi hacking tool. right now it olni has a Pin Attacker but i will add more features :)
+This project is a multi hacking tool. Its now 0.8 with a LOT LOT LOT of very good Tools like Pin Attacking or Wifi spoofing
 
 -----------------------------------------------------
 
