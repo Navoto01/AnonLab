@@ -1,7 +1,7 @@
 # AnonLab
 Main AnonLab Page
 
-### Anonymusia Main WEB Page
+### AnonLab Main WEB Page
 http://anon.smstar.hu/AnonLab
 or
 http://zalanviktor.duckdns/org/zasim/AnonLab
