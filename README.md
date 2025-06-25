@@ -2,9 +2,9 @@
 Main AnonLab Page
 
 ### AnonLab Main WEB Page
-http://anon.smstar.hu/AnonLab
+http://anon.smstar.hu/
 or
-http://zalanviktor.duckdns/org/zasim/AnonLab
+http://zalanviktor.duckdns/org/zasim/
 
 #### This is a Hub. Here you can download games for FREE (pc) OR you can download modded apps (Android). In here you can also download root things for you rooted device. For example Magisk modules. There is a free Ai called AnonAI. Experience the modern private browser called AnonBrowser
 
